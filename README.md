@@ -18,7 +18,7 @@ To compile
 scalac .\ComplexNumberMatrixMultiplierProgram.scala
 
 To run
-scalac .\ComplexNumberMatrixMultiplierProgram.scala
+scala .\ComplexNumberMatrixMultiplierProgram.scala
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
